@@ -1,5 +1,7 @@
 # DJANGO - REACT PROJECT
 
+#### in progess project
+
 ##### Command to start a project
 ```python
 django-admin startproject <project_name>
