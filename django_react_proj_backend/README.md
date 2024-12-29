@@ -1,6 +1,13 @@
-# DJANGO - REACT PROJECT
+---
 
-##### Command to start a project
+### Command to Start the Project
+
+---
+
+### React Frontend
+
+To start your React project, follow these steps:
+
 ```python
 django-admin startproject <project_name>
 
